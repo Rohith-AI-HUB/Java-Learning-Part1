@@ -1,4 +1,4 @@
-package src.challenges;
+package src.challenges.Print;
 public class MyFirstApp {
     public static void main(String[] args) {
         System.out.print("Hello");
