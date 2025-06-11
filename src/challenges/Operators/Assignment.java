@@ -1,4 +1,5 @@
-public class Assignment {
+package src.Challenges.Operators;
+class Assignment {
     public static void main(String[] args) {
         int myInt = 10;
         System.out.println(myInt);
