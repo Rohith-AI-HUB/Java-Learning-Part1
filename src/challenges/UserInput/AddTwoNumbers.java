@@ -1,3 +1,5 @@
+package src.Challenges.UserInput;
+
 import java.util.Scanner;
 
 public class AddTwoNumbers {
