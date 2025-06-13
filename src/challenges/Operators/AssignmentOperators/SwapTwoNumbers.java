@@ -1,4 +1,4 @@
-package src.Challenges.Operators.AssignmentOperators;
+package AssignmentOperators;
 import java.util.Scanner;
 
 class SwapTwoNumbers {

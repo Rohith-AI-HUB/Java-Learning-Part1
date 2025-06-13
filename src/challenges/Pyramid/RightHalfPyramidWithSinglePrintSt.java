@@ -1,4 +1,4 @@
-package src.Challenges.Pyramid;
+package src.challenges.Pyramid;
 
 public class RightHalfPyramidWithSinglePrintSt {
     public static void main(String[] args) {

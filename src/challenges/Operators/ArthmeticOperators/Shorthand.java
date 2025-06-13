@@ -1,4 +1,4 @@
-package src.Challenges.Operators.ArthmeticOperators;
+package ArthmeticOperators;
 import java.util.Scanner;
 
 public class Shorthand {

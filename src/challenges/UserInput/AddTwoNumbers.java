@@ -1,4 +1,4 @@
-package src.Challenges.UserInput;
+package src.challenges.UserInput;
 
 import java.util.Scanner;
 
