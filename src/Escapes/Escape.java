@@ -1,4 +1,4 @@
-package src.Escapes;
+package Escapes;
 
 public class Escape {
     public static void main(String[] args) {

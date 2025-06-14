@@ -1,4 +1,4 @@
-package src.challenges.Pyramid;
+package challenges.Pyramid;
 public class ReverseRightHalfPyramid {
     public static void main(String[] args) {
        System.out.println("* * * * *");
