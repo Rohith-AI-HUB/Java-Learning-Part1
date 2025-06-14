@@ -1,4 +1,4 @@
-package src.Practices;
+package Practices;
 import java.util.Scanner;
 
 class PerimeterOfRectangle {

@@ -1,4 +1,4 @@
-package challenges.Operators.ArthmeticOperators;
+package challenges.Operators.ArithmeticOperators;
 
 public class Unary {
     public static void main(String[] args) {

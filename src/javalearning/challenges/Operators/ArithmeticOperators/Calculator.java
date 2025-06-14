@@ -1,4 +1,4 @@
-package challenges.Operators.ArthmeticOperators;
+package challenges.Operators.ArithmeticOperators;
 import java.util.Scanner;
 
 class Arithmetic {
