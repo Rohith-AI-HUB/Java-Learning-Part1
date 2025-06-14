@@ -1,4 +1,4 @@
-package Relational;
+package challenges.Operators.Relational;
 import java.util.Scanner;
 
 class Driving{

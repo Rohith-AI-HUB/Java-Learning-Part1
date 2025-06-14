@@ -1,4 +1,4 @@
-package AssignmentOperators;
+package challenges.Operators.AssignmentOperators;
 class Assignment {
     public static void main(String[] args) {
         int myInt = 10;

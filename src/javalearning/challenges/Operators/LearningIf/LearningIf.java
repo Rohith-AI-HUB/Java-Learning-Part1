@@ -1,4 +1,4 @@
-package LearningIf;
+package challenges.Operators.LearningIf;
 public class LearningIf {
     public static void main(String[] args) {
         boolean isMale = true;
