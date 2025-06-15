@@ -6,7 +6,7 @@ public class LeapYear {
         System.out.print("Please provide the year: ");
         int year = input.nextInt();
         
-        if (year % 4 == 0) {
+        if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) {
             System.out.println("Leap year");
         } else {
             System.out.println("Not a leap year");
