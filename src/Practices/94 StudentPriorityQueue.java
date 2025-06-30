@@ -35,9 +35,9 @@ class StudentPriorityQueue {
             this.grade = grade;
         }
 
-        public String getName() {
-            return name;
-        }
+        // public String getName() {
+        //     return name;
+        // }
 
         public char getGrade() {
             return grade;
