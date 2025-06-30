@@ -5,7 +5,7 @@ import java.util.List;
 
 class Comparator {
     public static void main(String[] args) {
-        List<String> list = Arrays.asList("Bear", "Zebra", "Lion", "Ant");
+        List<String> list = Arrays.asList("Bear", "Zebra", "Lion", "Ant", "Tiger");
         System.out.println(list);
         sortInDescending(list);
         System.out.println(list);
